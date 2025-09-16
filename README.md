@@ -17,11 +17,13 @@ Insights Gained:
 
 Reports:
 
-Net Sales Performance
+Net Sales Performance:
 
 (https://github.com/GhanshyamBhagat05/Excel-Sales-Analysis/blob/main/Net%20Sales%20performance.pdf)
 
+Sales Targets Vs Market Performance:
 
+(https://github.com/GhanshyamBhagat05/Excel-Sales-Analysis/blob/main/Targets%20vs%20Market%20Performance.pdf)
 
 
 
