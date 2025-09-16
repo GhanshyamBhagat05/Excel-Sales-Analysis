@@ -48,6 +48,17 @@ Insights Gained:
 
 Reports:
 
+P & L Statement By Months:
+
+(https://github.com/GhanshyamBhagat05/Excel-Sales-Analysis/blob/main/P%20%26%20l%20By%20Months.pdf)
+
+P & L Statement By Fiscal Year:
+
+(
+
+P & L Statement By Markets:
+
+(
 
 
 
