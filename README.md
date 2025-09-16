@@ -58,7 +58,7 @@ P & L Statement By Fiscal Year:
 
 P & L Statement By Markets:
 
-(
+(https://github.com/GhanshyamBhagat05/Excel-Sales-Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 
 
