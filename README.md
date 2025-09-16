@@ -1,21 +1,21 @@
-📈 Sales Performance Analysis:
+📈 **Sales Performance Analysis:**
 
 
 This section focuses on evaluating sales performance and identifying growth opportunities. The analysis includes a customer performance report and a comparison of market performance against sales targets.
 
-Key Objectives:
+*Key Objectives:*
 
 **1.** Assess individual customer performance to identify top clients and areas for improvement.
 
 **2.** Compare market performance against predetermined sales targets to measure success and pinpoint underperforming markets.
 
-Insights Gained:
+*Insights Gained:*
 
 **1.** Facilitated data-backed negotiations with consumers.
 
 **2.** Revealed potential business expansion opportunities in promising new markets.
 
-Reports:
+*Reports:*
 
 Net Sales Performance:
 
@@ -28,17 +28,17 @@ Sales Targets Vs Market Performance:
 
 
 
-💰 Financial Reporting & Analysis:
+💰 **Financial Reporting & Analysis:**
 
 This section evaluates the company's financial health through detailed Profit and Loss (P&L) statements, which serve as a foundation for strategic planning and stakeholder communication.
 
-Key Objectives:
+*Key Objectives:*
 
 **1.** Generate P&L reports by fiscal year, month, and market.
 
 **2.** Benchmark financial performance against previous periods and industry standards.
 
-Insights Gained:
+*Insights Gained:*
 
 **1.** Supported effective decision-making through clear financial data.
 
@@ -46,7 +46,7 @@ Insights Gained:
 
 **3.** Instilled confidence in the company's financial outlook for stakeholders.
 
-Reports:
+*Reports:*
 
 P & L Statement By Months:
 
@@ -54,7 +54,7 @@ P & L Statement By Months:
 
 P & L Statement By Fiscal Year:
 
-(
+(https://github.com/GhanshyamBhagat05/Excel-Sales-Analysis/blob/main/P%20%26%20L%20By%20fiscal%20Year.pdf)
 
 P & L Statement By Markets:
 
@@ -64,11 +64,11 @@ P & L Statement By Markets:
 
 
 
-🛠️ Technical & Soft Skills:
+🛠️ **Technical & Soft Skills:**
 
 This project was executed using a combination of technical and soft skills crucial for a successful data analytics workflow.
 
-Technical Skills:
+*Technical Skills:*
 
 ETL Methodology: Applied Extract, Transform, Load processes to clean and prepare data.
 
@@ -78,7 +78,7 @@ DAX: Utilized Data Analysis Expressions (DAX) to create calculated columns and m
 
 Power Query: Generated a dynamic date table and incorporated supplementary data.
 
-Soft Skills:
+*Soft Skills:*
 
 Data Analysis: Refined understanding of Sales and Finance Reports to derive meaningful insights.
 
